@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "robot-arm-automation", "robot-arm-automation.csproj", "{1E8A80EF-5470-4374-AE0A-CCD4F839BB2D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "setup-project-robot-arm-automation", "..\setup-project-robot-arm-automation\setup-project-robot-arm-automation.vdproj", "{7876DE73-96B2-41CF-A552-3C6FB0F3B7D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E8A80EF-5470-4374-AE0A-CCD4F839BB2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8A80EF-5470-4374-AE0A-CCD4F839BB2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8A80EF-5470-4374-AE0A-CCD4F839BB2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8A80EF-5470-4374-AE0A-CCD4F839BB2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7876DE73-96B2-41CF-A552-3C6FB0F3B7D4}.Debug|Any CPU.ActiveCfg = Debug
+		{7876DE73-96B2-41CF-A552-3C6FB0F3B7D4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EC42AEF-F07E-4731-9D2D-951F87F8A19C}
+	EndGlobalSection
+EndGlobal
